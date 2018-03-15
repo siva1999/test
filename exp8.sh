@@ -15,3 +15,4 @@ do
                        kill $pno
            fi 
          done < "psout"
+echo "hey";
